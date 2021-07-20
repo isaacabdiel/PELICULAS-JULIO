@@ -66,6 +66,21 @@ http://201.172.61.81:85/peliculas/sagas/Ver%20Mi%20pobre%20Angelito%20(1990)%20O
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-mmed.jpg",MI POBRE ANGELITO 2
 http://201.172.61.81:85/peliculas/sagas/Mi%20Pobre%20Angelito%202.mp4
 
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/transformers-262115081-mmed.jpg",TRANSFORMERS
+http://201.172.61.81:85/peliculas/sagas/1.mp4
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/transformers_revenge_of_the_fallen-880744056-mmed.jpg",TRANSFORMERS 2
+http://201.172.61.81:85/peliculas/sagas/2.mp4
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/transformers_dark_of_the_moon_transformers_3-868681391-mmed.jpg",TRANSFORMERS 3
+http://201.172.61.81:85/peliculas/sagas/3.mp4
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/transformers_age_of_extinction_transformers_4-446737998-mmed.jpg",TRANSFORMERS 4
+http://201.172.61.81:85/peliculas/sagas/4.mp4
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/transformers_the_last_knight-188708679-mmed.jpg",TRANSFORMERS 5
+http://201.172.61.81:85/peliculas/sagas/5.mp4
+
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/b2/5f/fb/b25ffba78f21eff22befc034ee7f2a35.png",CHUCKY
 http://201.172.61.81:85/peliculas/sagas/Saga%20Chucky/chucky%201.mp4
 
@@ -96,7 +111,6 @@ http://201.172.61.81:85/peliculas/4K/*Sicario.2015.4K.HDR.mp4
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/the_swing_of_things-947157574-mmed.jpg",the swing
 http://201.172.61.81:85/peliculas/4K/*The.Swing..Things.2020e.mp4
 
-
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/marked_for_death-165093883-mmed.jpg",SEÑALADO POR LA MUERTE
 http://201.172.61.81:85/peliculas/4K/*se%c3%b1alado%20por%20la%20muerte%201990.mp4
 
@@ -108,7 +122,6 @@ http://201.172.61.81:85/peliculas/sagas/*MEN.IN.BLACK.2.mp4
 
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/men_in_black_3_men_in_black_iii_mib3_men_in_black_3d-287523233-mmed.jpg",HOMBRES DE NEGRO 3
 http://201.172.61.81:85/peliculas/sagas/*MEN.IN.BLACK.3.mp4
-
 
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/ammonite-238748683-mmed.jpg",AMMONITE
 http://201.172.61.81:85/peliculas/sagas/Ammonite.2020.WEB-DL.1080p.Latino..mkv%20-%20Google%20Drive.mp4
@@ -127,6 +140,9 @@ http://201.172.61.81:85/peliculas/sagas/Batman%20Forever%20(1995).mp4
 
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/beber_de_tu_sangre-445194997-mmed.jpg",BEBER TU SANGRE
 http://201.172.61.81:85/peliculas/sagas/Beber.de.tu.sangre.2020.HD.1080p.Latino.www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/twilight-976997289-mmed.jpg",CREPUSCULO
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%201%20(2008).mp4
 
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg",CREPUSCULO LUNA NUEVA
 http://201.172.61.81:85/peliculas/sagas/Crepusculo%202%20Luna%20nueva%20(2009).mp4
